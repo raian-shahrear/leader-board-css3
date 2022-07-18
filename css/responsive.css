@@ -1,3 +1,4 @@
+
 /* X-small device */
 @media only screen and (max-width:349px) {
   .navbar-area{
@@ -42,7 +43,6 @@
   }
   .container{
     width: 90%;
-    
   }
   .section-title, .blog-details, .course-banner, .course-details{
     text-align: center;
@@ -62,14 +62,11 @@
 
 /* Medium device */
 @media only screen and (min-width: 577px) and (max-width: 768px){
-  .header-section{
+  .header-section, .container{
     width: 80%;
   }
   .menu-items ul{
     gap: 20px;
-  }
-  .container{
-    width: 80%;
   }
   .player-items, .latest-course{
     grid-template-columns: repeat(2, 1fr);
@@ -91,12 +88,8 @@
 
 /* Large device */
 @media only screen and (min-width: 769px) and (max-width: 1140px){
-  .header-section{
+  .header-section, .container{
     width: 80%;
-  }
-  .container{
-    width: 80%;
-    
   }
   .player-items, .latest-course{
     grid-template-columns: repeat(2, 1fr);
