@@ -1,0 +1,22 @@
+@media only screen and (max-width: 576px) {
+  /*==============
+  Top Player Style 
+  ==============*/
+  .container{
+    width: 100%;
+    padding-left: 60px;
+  }
+  .section-title, .blog-details, .course-banner, .course-details{
+    text-align: center;
+  }
+  .player-items, .blog-items, .latest-course{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 30px 0;
+  }
+  .player, .blog{
+    flex-direction: column;
+  }
+  .blog{
+    align-items: center;
+  }
+}
