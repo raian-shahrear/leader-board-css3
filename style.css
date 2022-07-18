@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@400;500&family=Roboto:wght@400;500&display=swap');
 
+
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif; */
@@ -98,7 +99,7 @@ Top Player Style
 ==============*/
 .top-area{
   /* margin: 36px 0 21px; */
-  margin: 124px 0 21px; /* 88+36=124px, margin bottom 88px because Navbar has been positioned fixed */
+  margin: 124px 0 21px; /* 88+36=124px, margin top 88px because Navbar has been positioned fixed */
 }
 .top-players{
   margin: 3px 0 30px;
