@@ -35,7 +35,7 @@ hr{
 .section-title{
   color: #562EFF;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 1.5em;
   margin-bottom: 30px;
 }
 
@@ -70,7 +70,7 @@ header{
 }
 .logo a span{
   font-weight: 500;
-  font-size: 24px;
+  font-size: 1.5em;
   color: #FFFFFF;
   margin-left: 16px;
 }
@@ -86,7 +86,7 @@ header{
   text-decoration: none;
   color: #FFFFFF;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1em;
 }
 .profile a img{
   width: 51px;
@@ -121,7 +121,7 @@ Top Player Style
 .player-name{
   margin-left: 16px;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 1.125em;
 }
 
 
@@ -150,12 +150,12 @@ Top Blog Style
 }
 .blog-title{
   font-weight: 500;
-  font-size: 20px;
+  font-size: 1.25em;
 }
 .blog-author{
   color: #9F9F9F;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1em;
 }
 .blog-author a{
   text-decoration: none;
@@ -186,12 +186,12 @@ Latest Course Style
   border-radius: 5px;
 }
 .course-title{
-  font: 500 20px 'Roboto', sans-serif;
+  font: 500 1.25em 'Roboto', sans-serif;
   margin: 20px 0 7px;
 }
 .course-instructor{
   color: #ED6B4F;
-  font: 400 15px 'Roboto', sans-serif;
+  font: 400 0.9375em 'Roboto', sans-serif;
   margin-bottom: 20px;
 }
 .course-info{
@@ -202,22 +202,22 @@ Latest Course Style
 .fa-star.fill, 
 .fa-star-half-stroke.fill{
   color: #FFC014;
-  font-size: 12px;
+  font-size: 0.75em;
 }
 .fa-star.empty{
-  font-size: 12px;
+  font-size: 0.75em;
   color: #AEAEAE;
   opacity: 0.25;
 }
 .course-rating span{
   color: #A2A2A2;
-  font-size: 15px;
+  font-size: 0.9375em;
   font-weight: 400;
   margin-left: 10px;
 }
 .course-duration{
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375em;
   color: #FF4A60;
   background: #FFE4E8;
   border-radius: 15px;
